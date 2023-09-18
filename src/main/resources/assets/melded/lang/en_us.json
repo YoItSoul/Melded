@@ -1,0 +1,26 @@
+{
+  "item.melded.lumithril": "Lumithril",
+  "item.melded.aurinite": "Aurinite",
+  "item.melded.rendium": "Rendium",
+  "item.melded.chronium": "Chronium",
+  "item.melded.pyrotin": "Pyrotin",
+  "item.melded.aerilium": "Aerilium",
+  "item.melded.terracor": "Terracor",
+  "item.melded.magnorium": "Magnorium",
+  "item.melded.aquium": "Aquium",
+  "item.melded.lithimite": "Lithimite",
+  "item.melded.solarien": "Solarien",
+
+  "item.melded.aurinite_raw": "Raw Aurinite",
+  "item.melded.rendium_raw": "Raw Rendium",
+  "item.melded.chronium_raw": "Raw Chronium",
+  "item.melded.pyrotin_raw": "Raw Pyrotin",
+  "item.melded.aerilium_raw": "Raw Aerilium",
+  "item.melded.terracor_raw": "Raw Terracor",
+  "item.melded.magnorium_raw": "Raw Magnorium",
+  "item.melded.aquium_raw": "Raw Aquium",
+  "item.melded.lithimite_raw": "Raw Lithimite",
+  "item.melded.solarien_raw": "Raw Solarien",
+
+  "itemGroup.melded_tab": "Melded"
+}
